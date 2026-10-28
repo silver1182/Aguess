@@ -7,3 +7,12 @@ __pycache__/
 output/*.html
 output/*.json
 output/*.zip
+
+# Generated scratch files
+temp/.tool-results/
+temp/*progress*
+temp/*prompt*
+temp/*reply*
+temp/*err*
+temp/*.xlsx
+temp/test_*.html
