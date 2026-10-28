@@ -1,0 +1,9 @@
+# Local credentials and large cached data
+account.session
+*.json
+*.csv
+*.rar
+__pycache__/
+output/*.html
+output/*.json
+output/*.zip
